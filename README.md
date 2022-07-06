@@ -1,9 +1,8 @@
 # Connect with me  
 <div align="center">
-<a href="https://www.facebook.com/lprabelo" target="_blank"><img src="https://github.com/luanrabelo/luanrabelo/blob/stable/assets/Facebook.png" alt="Facebook" width="150px" /></a>
-<a href="https://www.twitter.com/lprabelo" target="_blank"><img src="https://github.com/luanrabelo/luanrabelo/blob/stable/assets/Twitter.png" alt="Facebook" width="150px" /></a>
-<a href="https://www.instagram.com/lprabelo" target="_blank"><img src="https://github.com/luanrabelo/luanrabelo/blob/stable/assets/Instagram.png" alt="Facebook" width="150px" /></a>
-  
+<a href="https://www.facebook.com/lprabelo" target=_blank><img src="https://github.com/luanrabelo/luanrabelo/blob/stable/assets/Facebook.png" alt="Facebook" width="150px" /></a>
+<a href="https://www.twitter.com/lprabelo" target=_blank><img src="https://github.com/luanrabelo/luanrabelo/blob/stable/assets/Twitter.png" alt="Facebook" width="150px" /></a>
+<a href="https://www.instagram.com/lprabelo" target=_blank><img src="https://github.com/luanrabelo/luanrabelo/blob/stable/assets/Instagram.png" alt="Facebook" width="150px" /></a>
 </div>  
 
 
