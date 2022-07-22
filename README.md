@@ -1,3 +1,13 @@
+<p align="center">
+<a href="https://www.buymeacoffee.com/lprabelo">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Eucalyp-Deus_Coffee.png/640px-Eucalyp-Deus_Coffee.png" width="10%">
+<br>
+Did you like my scripts? So, please, buy me a coffee to keep me working on it..
+</a>
+</p>  
+<br/>  
+<br/>
+
 # Connect with me  
 <div align="center">
 <a href="https://www.facebook.com/lprabelo" target=_blank><img src="https://github.com/luanrabelo/luanrabelo/blob/stable/assets/Facebook.png" alt="Facebook" width="150px" /></a>
