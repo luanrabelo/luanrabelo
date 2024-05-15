@@ -20,6 +20,12 @@
       <summary>SynGenes Abstract</summary>  
       &nbsp; 
 
+      <p align="center">
+      <a href="https://doi.org/10.1186/s12859-024-05781-y" target="_blank">
+        <img src="https://raw.githubusercontent.com/luanrabelo/SynGenes/stable/docs/assets/SynGenes.png" width="40%" height="40%">
+      </a>
+      </p>
+
       **Background**  
       The reconstruction of the evolutionary history of organisms has been greatly influenced by the advent of molecular techniques, leading to a significant increase in studies utilizing genomic data from different species. However, the lack of standardization in gene nomenclature poses a challenge in database searches and evolutionary analyses, impacting the accuracy of results obtained.
 
@@ -38,6 +44,11 @@
       <details>
         <summary>ForAlexa Abstract</summary>  
         &nbsp; 
+        <p align="center">
+        <a href="https://doi.org/10.1186/s12052-022-00169-z" target="_blank">
+          <img src="https://raw.githubusercontent.com/luanrabelo/ForAlexa/main/img/ForAlexaLogo.png" width="100%" height="100%">
+        </a>
+        </p>
 
         Intelligent Personal Assistants (IPAs), such as Amazon’s Alexa, are now widely used for an ample variety of tasks, ranging from personal management to education. These tools have shown considerable promise for student-educator interactions, especially at a distance, a potential that has come to the forefront during the ongoing COVID-19 pandemic. Even so, this potential is still underexploited, even in the current scenario. Alexa’s apps are known as skills, which include all the different commands that Alexa is capable of executing. It is important to note, however, that the use of such technology is work-intensive and can be relatively complex. Given this, to facilitate the development of new skills in Alexa, we have developed an online tool that permits the creation of questions and answers, as well as honing the interaction between Alexa and the user. We have named this tool ForAlexa, which has two types of forms, Question-And-Answer (Q&A) and Random-Quote. Both these forms allow the user to build intents (an activity that is invoked by a spoken request from the user), but with slightly different functions. The Q&A form is used to compile answers that Alexa will offer in response to an utterance (question), while the Random-Quote extends the interaction between Alexa and the user, based on the questions asked in the first form. ForAlexa also has a help assistant, as well as a manual, which explains all the steps necessary for the design of an intent. This tool allows educators to develop apps quickly and easily for their classes and this type of app could be an alternative to be used for students with special needs, such as the visually-impaired.
         </details>
