@@ -59,25 +59,25 @@ Intelligent Personal Assistants (IPAs), such as Amazon’s Alexa, are now widely
 ## Publications as **Co-Author**
 #### [:rocket: Go to Table of Contents](#table-of-contents)
 - ### Co-Author - 2024
-  - :page_facing_up: First neurotranscriptome of adults Tambaquis (*Colossoma macropomum*) with characterization and differential expression between males and females.
+:page_facing_up: First neurotranscriptome of adults Tambaquis (*Colossoma macropomum*) with characterization and differential expression between males and females.
 
-    > *Miranda, J., Veneza, I., Ferreira, C., Santana, P., Lutz, I., Furtado, C., Pereira, P., **Rabelo, L.**, Guerreiro-Diniz, C., Melo, M., Sampaio, I., Vallinoto, M., Evangelista-Gomes, G. First neurotranscriptome of adults Tambaquis (Colossoma macropomum) with characterization and differential expression between males and females. Sci Rep 14, 3130 (2024). https://doi.org/10.1038/s41598-024-53734-5*
-    ***
-  - :page_facing_up: DNA barcoding for the assessment of marine and coastal fish diversity from the Coast of Mozambique.
+> *Miranda, J., Veneza, I., Ferreira, C., Santana, P., Lutz, I., Furtado, C., Pereira, P., **Rabelo, L.**, Guerreiro-Diniz, C., Melo, M., Sampaio, I., Vallinoto, M., Evangelista-Gomes, G. First neurotranscriptome of adults Tambaquis (Colossoma macropomum) with characterization and differential expression between males and females. Sci Rep 14, 3130 (2024). https://doi.org/10.1038/s41598-024-53734-5*
+***
+:page_facing_up: DNA barcoding for the assessment of marine and coastal fish diversity from the Coast of Mozambique.
 
-    > *Muhala V, Guimarães-Costa A, Macate IE, **Rabelo LP**, Bessa-Silva AR, Watanabe L, et al. (2024) DNA barcoding for the assessment of marine and coastal fish diversity from the Coast of Mozambique. PLoS ONE 19(2): e0293345. https://doi.org/10.1371/journal.pone.0293345*
-    ***
-  - :page_facing_up: Comparative mitochondrial genome brings insights to slight variation in gene proportion and large intergenic spacer and phylogenetic relationship of mudskipper species.
+> *Muhala V, Guimarães-Costa A, Macate IE, **Rabelo LP**, Bessa-Silva AR, Watanabe L, et al. (2024) DNA barcoding for the assessment of marine and coastal fish diversity from the Coast of Mozambique. PLoS ONE 19(2): e0293345. https://doi.org/10.1371/journal.pone.0293345*
+***
+:page_facing_up: Comparative mitochondrial genome brings insights to slight variation in gene proportion and large intergenic spacer and phylogenetic relationship of mudskipper species.
 
-    > *Muhala, V., Guimarães-Costa, A., Bessa-Silva, A., **Rabelo, L.**, Carneiro, J., Macate, I., Watanabe, L., Balcázar, O., Gomes, G., Vallinoto, M., Sampaio, I. Comparative mitochondrial genome brings insights to slight variation in gene proportion and large intergenic spacer and phylogenetic relationship of mudskipper species. Sci Rep 14, 3358 (2024). https://doi.org/10.1038/s41598-024-52979-4*
-    ***
+> *Muhala, V., Guimarães-Costa, A., Bessa-Silva, A., **Rabelo, L.**, Carneiro, J., Macate, I., Watanabe, L., Balcázar, O., Gomes, G., Vallinoto, M., Sampaio, I. Comparative mitochondrial genome brings insights to slight variation in gene proportion and large intergenic spacer and phylogenetic relationship of mudskipper species. Sci Rep 14, 3358 (2024). https://doi.org/10.1038/s41598-024-52979-4*
+***
 - ### Co-Author - 2021
-  - :page_facing_up: The role of the chromosomal rearrangements in the evolution and speciation of Elopiformes fishes (Teleostei; Elopomorpha).
+:page_facing_up: The role of the chromosomal rearrangements in the evolution and speciation of Elopiformes fishes (Teleostei; Elopomorpha).
 
-    > Sousa, R.P.C., Silva-Oliveira, G.C., Furo, I.O., Oliveira-Filho, A.B., Brito, C.D.B., **Rabelo, L.**, Guimarães-Costa, A., Oliveira, E.H.C., Vallinoto, M. The role of the chromosomal rearrangements in the evolution and speciation of Elopiformes fishes (Teleostei; Elopomorpha)1. Zoologischer Anzeiger 290, 40-48 (2021). https://doi.org/10.1016/j.jcz.2020.11.003
-    ***
+> Sousa, R.P.C., Silva-Oliveira, G.C., Furo, I.O., Oliveira-Filho, A.B., Brito, C.D.B., **Rabelo, L.**, Guimarães-Costa, A., Oliveira, E.H.C., Vallinoto, M. The role of the chromosomal rearrangements in the evolution and speciation of Elopiformes fishes (Teleostei; Elopomorpha)1. Zoologischer Anzeiger 290, 40-48 (2021). https://doi.org/10.1016/j.jcz.2020.11.003
+***
 - ### Co-Author - 2016
-  - :page_facing_up: Software para Elaboração e Avaliação de Projetos de Piscicultura: uma ferramenta para auxiliar na profissionalização da atividade.
+:page_facing_up: Software para Elaboração e Avaliação de Projetos de Piscicultura: uma ferramenta para auxiliar na profissionalização da atividade.
 
-    > *Brabo, M.F., **Rabelo, L.P.**, Veras, G.C., Maciel, C.M.T. Software para Elaboração e Avaliação de Projetos de Piscicultura: uma ferramenta para auxiliar na profissionalização da atividade. Informações Econômicas, SP, v. 45, n. 4, jul./ago. 2015*
-    ***
+> *Brabo, M.F., **Rabelo, L.P.**, Veras, G.C., Maciel, C.M.T. Software para Elaboração e Avaliação de Projetos de Piscicultura: uma ferramenta para auxiliar na profissionalização da atividade. Informações Econômicas, SP, v. 45, n. 4, jul./ago. 2015*
+***
