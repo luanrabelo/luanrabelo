@@ -35,10 +35,10 @@
     <img src="https://img.icons8.com/?size=100&id=ve6L0KkSotok&format=png&color=DDDDDD" alt="ORCID"/>
   </a>
 </p>
-
 ***
 
-# :page_facing_up: My recently published papers
+
+# My recently published papers
 ## Publications as **First Author**
 #### [:rocket: Go to Table of Contents](#table-of-contents)
 - ### First Author - 2024
