@@ -1,3 +1,28 @@
+## Connect with me
+
+<p align="center">
+  <a href="https://github.com/luanrabelo" target="_blank" style="margin-right: 20px;">
+    <img src="https://img.icons8.com/?size=75&id=12599&format=png&color=DDDDDD" alt="GitHub"/>
+  </a>
+  <a href="https://www.x.com/lprabelo" target="_blank" style="margin-right: 20px;">
+    <img src="https://img.icons8.com/?size=75&id=111057&format=png&color=DDDDDD" alt="X"/>
+  </a>
+  <a href="https://www.facebook.com/lprabelo" target="_blank" style="margin-right: 20px;">
+    <img src="https://img.icons8.com/?size=75&id=118467&format=png&color=DDDDDD" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/lprabelo" target="_blank" style="margin-right: 20px;">
+    <img src="https://img.icons8.com/?size=75&id=32309&format=png&color=DDDDDD" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lprabelo/" target="_blank" style="margin-right: 20px;">
+    <img src="https://img.icons8.com/?size=75&id=8808&format=png&color=DDDDDD" alt="LinkedIn"/>
+  </a>
+  <a href="https://orcid.org/0000-0002-1223-8943" target="_blank" style="margin-right: 20px;">
+    <img src="https://img.icons8.com/?size=75&id=ve6L0KkSotok&format=png&color=DDDDDD" alt="ORCID"/>
+  </a>
+</p>
+
+***
+
 # Table of Contents
 - [My Recently Published Papers](#my-recently-published-papers)
   - [Publications as First Author](#publications-as-first-author)
