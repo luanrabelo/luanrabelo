@@ -1,5 +1,6 @@
 # Table of Contents
 - [Connect with me](#connect-with-me)
+- [Portfolio](#portfolio)
 - [My Recently Published Papers](#my-recently-published-papers)
   - [Publications as First Author](#publications-as-first-author)
     - [2024](#first-author---2024)
@@ -35,8 +36,30 @@
     <img src="https://img.icons8.com/?size=100&id=ve6L0KkSotok&format=png&color=DDDDDD" alt="ORCID"/>
   </a>
 </p>
+
 ***
 
+# Portfolio
+#### [:rocket: Go to Table of Contents](#table-of-contents)
+- Web Pages
+  - [Personal Page](https://luanrabelo.github.io/luanrabelo/)
+  - [dataFishing](https://luanrabelo.github.io/dataFishing/)
+  - [ForAlexa](https://levo.ufpa.br/ForAlexa/)
+  - [SynGenes](https://luanrabelo.github.io/SynGenes/)
+  - [SyBA](https://luanrabelo.github.io/SyBA/)
+  - [PUMAS](https://luanrabelo.github.io/PUMAS/)
+  
+- Bioinformatic Tools
+  - [dataFishing](https://github.com/luanrabelo/dataFishing)
+  - [ForAlexa](https://github.com/luanrabelo/ForAlexa)
+  - [GenoView](https://github.com/luanrabelo/GenoView)
+  - [InclusivePalette](https://github.com/luanrabelo/InclusivePalette)
+  - [MICOS](https://github.com/luanrabelo/MICOS)
+  - [M-TeReSA](https://github.com/luanrabelo/M-TeReSA)
+  - [PUMAS](https://github.com/luanrabelo/PUMAS)
+  - [SyBA](https://github.com/luanrabelo/SyBA)
+  - [SynGenes](https://github.com/luanrabelo/SynGenes)
+***
 
 # My recently published papers
 ## Publications as **First Author**
