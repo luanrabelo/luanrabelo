@@ -1,4 +1,19 @@
-## Connect with me
+# Table of Contents
+- [Connect with me](#connect-with-me)
+- [My Recently Published Papers](#my-recently-published-papers)
+  - [Publications as First Author](#publications-as-first-author)
+    - [2024](#first-author---2024)
+    - [2022](#first-author---2022)
+  - [Publications as Co-Author](#publications-as-co-author)
+    - [2024](#co-author---2024)
+    - [2021](#co-author---2021)
+    - [2016](#co-author---2016)
+
+***  
+&nbsp; 
+
+# Connect with me
+#### [:rocket: Go to Table of Contents](#table-of-contents)
 
 <p align="center">
   <a href="https://github.com/luanrabelo" target="_blank" style="margin-right: 20px;">
@@ -22,19 +37,6 @@
 </p>
 
 ***
-
-# Table of Contents
-- [My Recently Published Papers](#my-recently-published-papers)
-  - [Publications as First Author](#publications-as-first-author)
-    - [2024](#first-author---2024)
-    - [2022](#first-author---2022)
-  - [Publications as Co-Author](#publications-as-co-author)
-    - [2024](#co-author---2024)
-    - [2021](#co-author---2021)
-    - [2016](#co-author---2016)
-
-***  
-&nbsp; 
 
 # :page_facing_up: My recently published papers
 ## Publications as **First Author**
