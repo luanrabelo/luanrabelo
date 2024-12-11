@@ -109,6 +109,11 @@ Intelligent Personal Assistants (IPAs), such as Amazon’s Alexa, are now widely
 ## Publications as **Co-Author**
 #### [:rocket: Go to Table of Contents](#table-of-contents)
 - ### Co-Author - 2024
+:page_facing_up: A possible new species of the *Maculabatis gerrardi* complex (Dasyatidae: Urogymninae) in the Indian Ocean coast off Southeastern Africa.
+
+> *Muhala, V., Guimarães-Costa, A., Macate, I., Lutz, I., Bessa-Silva, A., **Rabelo, L.**, Hasimuna, O., Evangelista-Gomes, G., Vallinoto, M., Sampaio, I. A possible new species of the *Maculabatis gerrardi* complex (Dasyatidae: Urogymninae) in the Indian Ocean coast off Southeastern Africa. Journal of the Marine Biological Association of the United Kingdom, 104:e107 (2024). https://doi.org/10.1017/S0025315424000973*
+***
+
 :page_facing_up: First neurotranscriptome of adults Tambaquis (*Colossoma macropomum*) with characterization and differential expression between males and females.
 
 > *Miranda, J., Veneza, I., Ferreira, C., Santana, P., Lutz, I., Furtado, C., Pereira, P., **Rabelo, L.**, Guerreiro-Diniz, C., Melo, M., Sampaio, I., Vallinoto, M., Evangelista-Gomes, G. First neurotranscriptome of adults Tambaquis (Colossoma macropomum) with characterization and differential expression between males and females. Sci Rep 14, 3130 (2024). https://doi.org/10.1038/s41598-024-53734-5*
